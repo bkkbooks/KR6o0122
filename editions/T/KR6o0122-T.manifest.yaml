@@ -1,0 +1,62 @@
+canonical_identifier: bkk:krp/KR6o0122/T/v1
+canonical_location: https://kanripo.org/bkk/KR6o0122/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘起信論廣釋卷第三．四．五
+  identifiers:
+    krp: KR6o0122
+    cbeta: T85n2814
+    cbeta_old_id: T85n2814
+    authorityid: CA0004834
+    json_key: T2814
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2814.xml
+    old_id: T85n2814
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0122_000-T.yaml, hash: 'sha256:9eaf9bdf20d25c2c73c6d4b129a60c8c1a249a55a1c61f6445c1197c06e4e21e'}
+  - {seq: 3, filename: KR6o0122_003-T.yaml, hash: 'sha256:b5463bef5d0fcc58f010023bdccea4b374162cb5b7a7308539f2b1266dc98731'}
+  - {seq: 4, filename: KR6o0122_004-T.yaml, hash: 'sha256:3779c6b7970a10c1b793cf14047140f5c3daf4b8f3f4ba20a22a5cb16c90ff56'}
+  - {seq: 5, filename: KR6o0122_005-T.yaml, hash: 'sha256:1ab941ad1a94bfd3f6edc08061265812b6e68383bafd8d5cb133463f5a2d0678'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6o0122_000-T.markers.yaml, hash: 'sha256:f74b5956ffeafef6438e13eb28c5b98e93a14af19fe1b35263294ca209c00e95'}
+  - {seq: 3, role: markers, filename: assets/KR6o0122_003-T.markers.yaml, hash: 'sha256:a016cead5d784eaabdd02303f758c65313e2e566bf146c8f2de49f5d27fcfa04'}
+  - {seq: 4, role: markers, filename: assets/KR6o0122_004-T.markers.yaml, hash: 'sha256:6994cc0478dc1861f4cbf14fda2f89fb9cce013ac335ecef2eae6aea45416951'}
+  - {seq: 5, role: markers, filename: assets/KR6o0122_005-T.markers.yaml, hash: 'sha256:35ff3b8596a0857619b0970c8724d0fa182465e659d39169575009c70c436583'}
+table_of_contents:
+- ref:
+    seq: 3
+    marker_id: KR6o0122_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 23640
+  label: 大乘起信論廣釋卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6o0122_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 24783
+  label: 大乘起信論廣釋卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6o0122_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 24951
+  label: 大乘起信論廣釋卷第五
+  type: juan
+  level: 1
+hash: sha256:e0da3e1823c62c9716e0dcbc158c1b55aadd2dfba00a2114c443d774046e3b14

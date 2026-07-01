@@ -1,0 +1,69 @@
+canonical_identifier: bkk:krp/KR6o0122/v1
+canonical_location: https://kanripo.org/bkk/KR6o0122/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大乘起信論廣釋卷第三．四．五
+  identifiers:
+    alt_id:
+    - T85n2814
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2814.xml
+    old_id: T85n2814
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0122_000.yaml, hash: 'sha256:9eaf9bdf20d25c2c73c6d4b129a60c8c1a249a55a1c61f6445c1197c06e4e21e'}
+  - {seq: 3, filename: KR6o0122_003.yaml, hash: 'sha256:20e5b0a93c9a25ae61c734e0e65da2d23135ed98e189d088291a8615bf4e9b9f'}
+  - {seq: 4, filename: KR6o0122_004.yaml, hash: 'sha256:d245718647ef9d84bf5f16f1ac73bef282a795b42554fb708203fc6a90fdf435'}
+  - {seq: 5, filename: KR6o0122_005.yaml, hash: 'sha256:d2f61c9a6a4b38dbedf2f2875fa550a164bc6a768d829fd12e8f2a49397ee8dd'}
+  markers:
+  - {seq: 3, role: markers, filename: assets/KR6o0122_003.markers.yaml, hash: 'sha256:284ed2754f4a2938c7cefe54adc92fbc8992845ff2a8c44a2c3a2c6c6d1b3ce3'}
+  - {seq: 4, role: markers, filename: assets/KR6o0122_004.markers.yaml, hash: 'sha256:7a395f10d5e9d4e4a947ca42090d949ccf15355aec15c11a96c2012fc098c329'}
+  - {seq: 5, role: markers, filename: assets/KR6o0122_005.markers.yaml, hash: 'sha256:cf6ba4ecb501603d0a032049facb02c885e9ef781482d40982326e3414cb6267'}
+table_of_contents:
+- ref:
+    seq: 3
+    marker_id: KR6o0122_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 23640
+  label: 大乘起信論廣釋卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6o0122_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 24783
+  label: 大乘起信論廣釋卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6o0122_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 24951
+  label: 大乘起信論廣釋卷第五
+  type: juan
+  level: 1
+hash: sha256:8547ad23804df471360b1fb65786b4e641b11ef1d98f3aa0b198b38419b9cf74
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

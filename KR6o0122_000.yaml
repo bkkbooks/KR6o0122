@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6o0122/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘起信論廣釋卷第三．四．五
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2814.xml
+    old_id: T85n2814
+hash: sha256:9eaf9bdf20d25c2c73c6d4b129a60c8c1a249a55a1c61f6445c1197c06e4e21e
