@@ -25,13 +25,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0122_000.yaml, hash: 'sha256:9eaf9bdf20d25c2c73c6d4b129a60c8c1a249a55a1c61f6445c1197c06e4e21e'}
-  - {seq: 3, filename: KR6o0122_003.yaml, hash: 'sha256:20e5b0a93c9a25ae61c734e0e65da2d23135ed98e189d088291a8615bf4e9b9f'}
-  - {seq: 4, filename: KR6o0122_004.yaml, hash: 'sha256:d245718647ef9d84bf5f16f1ac73bef282a795b42554fb708203fc6a90fdf435'}
-  - {seq: 5, filename: KR6o0122_005.yaml, hash: 'sha256:d2f61c9a6a4b38dbedf2f2875fa550a164bc6a768d829fd12e8f2a49397ee8dd'}
+  - {seq: 3, filename: KR6o0122_003.yaml, hash: 'sha256:b5463bef5d0fcc58f010023bdccea4b374162cb5b7a7308539f2b1266dc98731'}
+  - {seq: 4, filename: KR6o0122_004.yaml, hash: 'sha256:3779c6b7970a10c1b793cf14047140f5c3daf4b8f3f4ba20a22a5cb16c90ff56'}
+  - {seq: 5, filename: KR6o0122_005.yaml, hash: 'sha256:1ab941ad1a94bfd3f6edc08061265812b6e68383bafd8d5cb133463f5a2d0678'}
   markers:
-  - {seq: 3, role: markers, filename: assets/KR6o0122_003.markers.yaml, hash: 'sha256:284ed2754f4a2938c7cefe54adc92fbc8992845ff2a8c44a2c3a2c6c6d1b3ce3'}
-  - {seq: 4, role: markers, filename: assets/KR6o0122_004.markers.yaml, hash: 'sha256:7a395f10d5e9d4e4a947ca42090d949ccf15355aec15c11a96c2012fc098c329'}
-  - {seq: 5, role: markers, filename: assets/KR6o0122_005.markers.yaml, hash: 'sha256:cf6ba4ecb501603d0a032049facb02c885e9ef781482d40982326e3414cb6267'}
+  - {seq: 0, role: markers, filename: assets/KR6o0122_000.markers.yaml, hash: 'sha256:243d3974e45ffbce68d3aa5328ffa1181c443cf939e1bbd23081f87cfa761465'}
+  - {seq: 3, role: markers, filename: assets/KR6o0122_003.markers.yaml, hash: 'sha256:80fe595549d81f6215ea4d420a03a49b13384440a6e915becc8dbbcdb06e3ee4'}
+  - {seq: 4, role: markers, filename: assets/KR6o0122_004.markers.yaml, hash: 'sha256:da8c72a202da6d800e46072ea80acc054fe26ec42ca3ce79627a2aa15b9a34bf'}
+  - {seq: 5, role: markers, filename: assets/KR6o0122_005.markers.yaml, hash: 'sha256:334018694129e27f4d96a63329818f47ff49702bf59a9fc006c9ee05707761e7'}
 table_of_contents:
 - ref:
     seq: 3
@@ -63,7 +64,4 @@ table_of_contents:
   label: 大乘起信論廣釋卷第五
   type: juan
   level: 1
-hash: sha256:8547ad23804df471360b1fb65786b4e641b11ef1d98f3aa0b198b38419b9cf74
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:79782b894d6413391b359c75ae3bca8fd4be70219bdbfc501dce148faf5495c4
