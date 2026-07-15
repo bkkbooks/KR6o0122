@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6o0122/v1
 canonical_location: https://kanripo.org/bkk/KR6o0122/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大乘起信論廣釋卷第三．四．五
   identifiers:
@@ -25,14 +25,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0122_000.yaml, hash: 'sha256:9eaf9bdf20d25c2c73c6d4b129a60c8c1a249a55a1c61f6445c1197c06e4e21e'}
-  - {seq: 3, filename: KR6o0122_003.yaml, hash: 'sha256:b5463bef5d0fcc58f010023bdccea4b374162cb5b7a7308539f2b1266dc98731'}
-  - {seq: 4, filename: KR6o0122_004.yaml, hash: 'sha256:3779c6b7970a10c1b793cf14047140f5c3daf4b8f3f4ba20a22a5cb16c90ff56'}
-  - {seq: 5, filename: KR6o0122_005.yaml, hash: 'sha256:1ab941ad1a94bfd3f6edc08061265812b6e68383bafd8d5cb133463f5a2d0678'}
+  - {seq: 3, filename: KR6o0122_003.yaml, hash: 'sha256:4c8b6e8edee9b3e0ed615a2d1b4a8534d055fefff1e6bf8713d126de7464cc5e'}
+  - {seq: 4, filename: KR6o0122_004.yaml, hash: 'sha256:01b35d8c5e9d657fa89d9aab6e32667066681e461ea648977a5cbe8b3032ca9b'}
+  - {seq: 5, filename: KR6o0122_005.yaml, hash: 'sha256:f003d588c54960793dbeb574b0a12c3fa5ded9e635d538b3b8cb9004aa7f5cf6'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6o0122_000.markers.yaml, hash: 'sha256:243d3974e45ffbce68d3aa5328ffa1181c443cf939e1bbd23081f87cfa761465'}
-  - {seq: 3, role: markers, filename: assets/KR6o0122_003.markers.yaml, hash: 'sha256:80fe595549d81f6215ea4d420a03a49b13384440a6e915becc8dbbcdb06e3ee4'}
-  - {seq: 4, role: markers, filename: assets/KR6o0122_004.markers.yaml, hash: 'sha256:da8c72a202da6d800e46072ea80acc054fe26ec42ca3ce79627a2aa15b9a34bf'}
-  - {seq: 5, role: markers, filename: assets/KR6o0122_005.markers.yaml, hash: 'sha256:334018694129e27f4d96a63329818f47ff49702bf59a9fc006c9ee05707761e7'}
+  - {seq: 3, role: markers, filename: assets/KR6o0122_003.markers.yaml, hash: 'sha256:59f15004273983178eda0a88ce9a46f6846149ff581dead9e866f9c82f2e3d6c'}
+  - {seq: 4, role: markers, filename: assets/KR6o0122_004.markers.yaml, hash: 'sha256:9d43b871332afa8d3733be9e98f9f8a7d2d9fc95e19a4df6bf51e535b3b87a04'}
+  - {seq: 5, role: markers, filename: assets/KR6o0122_005.markers.yaml, hash: 'sha256:3dd1f61822990bc2be2fabbb1e1760460d9158eab2f2235962725e76e983879f'}
 table_of_contents:
 - ref:
     seq: 3
@@ -64,4 +64,7 @@ table_of_contents:
   label: 大乘起信論廣釋卷第五
   type: juan
   level: 1
-hash: sha256:79782b894d6413391b359c75ae3bca8fd4be70219bdbfc501dce148faf5495c4
+hash: sha256:ed0ce9ebe0a5944f5a1c9a750dae80f776639bb47dedc54ce6da1eedd81e270d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
